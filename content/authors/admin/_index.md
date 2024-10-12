@@ -73,7 +73,7 @@ email: ""
 highlight_name: true
 ---
 
-Hello! I'm Michele Mancusi, a **Senior Research Scientist** at **Sony**. My work focuses on deep learning for **generative models** in speech and audio, utilizing Large Language Models (**LLMs**) and **diffusion models** to push the boundaries of what's possible in audio technology.
+Hello! I'm Michele Mancusi, a **Senior Research Scientist** at **Sony**. My work focuses on deep learning for **generative models** in speech, audio, music and text utilizing Large Language Models (**LLMs**) and **diffusion models** to push the boundaries of what's possible in audio technology.
 
 Before joining Sony, I gained valuable experience as an intern at **Microsoft** and **Musixmatch**. At Microsoft, I worked on deep learning for unsupervised speech separation, and at Musixmatch, I focused on deep learning for singing voice detection.
 
