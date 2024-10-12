@@ -79,4 +79,4 @@ Before joining Sony, I gained valuable experience as an intern at **Microsoft** 
 
 I earned my **Ph.D.** from **Sapienza University of Rome** under the supervision of **Prof. Emanuele Rodolà**. My doctoral research centered on music generation, source separation, and Natural Language Processing (NLP), contributing to advancements in the field of generative AI.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
