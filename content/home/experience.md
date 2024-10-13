@@ -29,13 +29,9 @@ experience:
     location: Stuttgart, Germany
     date_start: '2024-04-01'
     date_end: ''
-    description: Research on deep learning for generative models for speech and audio with LLM and diffusion models.
-    # description: |2-
-    #     Responsibilities include:
-    #     
-    #     * Analysing
-    #     * Modelling
-    #     * Deploying
+    description: 
+    description: |2-
+    * Research on deep learning for generative models for speech and audio with LLM and diffusion models.
         
   - title: Visiting Research Scientist
     company: University X
