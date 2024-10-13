@@ -25,7 +25,7 @@ experience:
   - title: Senior Research Scientist 
     company: Sony
     company_url: 'https://www.sony.com/en/SonyInfo/research/about/stuttgart-laboratory1/'
-    company_logo: org-gc
+    company_logo: tmp
     location: Stuttgart, Germany
     date_start: '2024-04-01'
     date_end: ''
