@@ -30,7 +30,7 @@ experience:
     date_start: '2024-04-01'
     date_end: ''
     description: |
-        * Analisi
+        * Research on deep learning for generative models for speech and audio with LLM and diffusion models.
 
     #     Responsibilities include:
     #     
