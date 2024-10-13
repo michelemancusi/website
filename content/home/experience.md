@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.sony.com/en/SonyInfo/research/about/stuttgart-laboratory1/'
     company_logo: org-gc
     location: Stuttgart, Germany
-    date_start: 'April 2024'
+    date_start: '2024-04'
     date_end: ''
     description: |2-
         Responsibilities include:
