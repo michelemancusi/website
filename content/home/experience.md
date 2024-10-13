@@ -37,7 +37,7 @@ experience:
     #     * Modelling
     #     * Deploying
         
-  - title: Professor of Semiconductor Physics
+  - title: Visiting Research Scientist
     company: University X
     company_url: ''
     company_logo: org-x
