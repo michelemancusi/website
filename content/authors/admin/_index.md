@@ -31,8 +31,6 @@ education:
   - course: PhD in Computer Science
     institution: Sapienza University of Rome
     year: 2024
-    icon: envelope
-    icon_pack: fas
   - course: M.S. in Physics
     institution: Sapienza University of Rome
     year: 2019
