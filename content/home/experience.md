@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Research Experience
+title: Experience
 subtitle:
 
 # Date format for experience
@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Senior Research Scientist
-    company: Sony
-    company_url: 'https://www.sony.com/en/SonyInfo/research/about/stuttgart-laboratory1/'
+  - title: CEO
+    company: GenCoin
+    company_url: ''
     company_logo: org-gc
-    location: Stuttgart, Germany
-    date_start: '2024-04'
+    location: California
+    date_start: '2021-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
