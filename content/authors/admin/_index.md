@@ -39,7 +39,7 @@ education:
     institution_url: https://www.uniroma1.it/it/
     logo: sapienza.svg
     padding_logo: 1
-    year: 20190
+    year: 2019
   - course: B.S. in Physics
     institution: Sapienza University of Rome
     institution_url: https://www.uniroma1.it/it/
