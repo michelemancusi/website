@@ -31,17 +31,20 @@ education:
   - course: PhD in Computer Science
     institution: Sapienza University of Rome
     institution_url: https://www.uniroma1.it/it/
-    logo: sapienza.svg
+    logo: gladia.svg
+    padding_logo: 1
     year: 2024
   - course: M.S. in Physics
     institution: Sapienza University of Rome
     institution_url: https://www.uniroma1.it/it/
     logo: sapienza.svg
+    padding_logo: 1
     year: 2019
   - course: B.S. in Physics
     institution: Sapienza University of Rome
     institution_url: https://www.uniroma1.it/it/
     logo: sapienza.svg
+    padding_logo: 1
     year: 2016
 
 # Social/Academic Networking
