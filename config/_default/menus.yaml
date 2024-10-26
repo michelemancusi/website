@@ -15,7 +15,7 @@ main:
     weight: 30
   - name: Achievements
     url: '#achievements'
-    weight: 20
+    weight: 40
   - name: Publications
     url: '#featured'
     weight: 50

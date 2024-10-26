@@ -48,6 +48,16 @@ experience:
     description: |
         * Worked with Dr. Stefan Uhlich in the AI, Speech and Sound Group. Conducted research on deep learning for effects removal and timbre transfer with diffusion models.
 
+  - title: Research Scientist Intern
+    company: Microsoft 
+    company_url: 'https://www.microsoft.com/en-us/research/research-area/audio-acoustics/?'
+    company_logo: microsoft
+    location: Redmond, Washington, USA
+    date_start: '2023-06-01'
+    date_end: '2023-09-31'
+    description: |
+        * Worked with Dr. Sebastian Braun in the Audio and Acoustics Research Group. Conducted research on deep learning for unsupervised speech separation.
+
 design:
   columns: '2'
 ---
