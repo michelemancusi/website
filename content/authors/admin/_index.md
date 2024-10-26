@@ -82,9 +82,9 @@ email: ""
 highlight_name: true
 ---
 
-I'm Michele Mancusi, a **Senior Research Scientist** at **Sony**. My work focuses on deep learning for **generative models** in speech, audio, music and text utilizing Large Language Models (**LLMs**) and **diffusion models** to push the boundaries of what's possible in audio technology.
+I'm Michele Mancusi, a **Senior Research Scientist** at [Sony](https://www.sony.com/en/SonyInfo/research/about/stuttgart-laboratory1/). My work focuses on deep learning for **generative models** in speech, audio, music and text utilizing Large Language Models (**LLMs**) and **diffusion models** to push the boundaries of what's possible in audio technology.
 
-Before joining Sony, I gained valuable experience as an intern at **Microsoft** and **Musixmatch**. At Microsoft, I worked on deep learning for unsupervised speech separation, and at Musixmatch, I focused on deep learning for singing voice detection.
+Before joining Sony, I gained valuable experience as an intern at [Microsoft](https://www.microsoft.com/en-us/research/research-area/audio-acoustics/?) and [Musixmatch](https://about.musixmatch.com/). At Microsoft, I worked on deep learning for unsupervised speech separation, and at Musixmatch, I focused on deep learning for singing voice detection.
 
 I earned my **Ph.D.** from **Sapienza University of Rome** under the supervision of [Prof. Emanuele Rodolà](https://gladia.di.uniroma1.it/authors/rodola/) as a member of the [Gladia research group](https://gladia.di.uniroma1.it/). My doctoral research centered on music generation, source separation, and Natural Language Processing (NLP), contributing to advancements in the field of generative AI.
 

@@ -58,6 +58,16 @@ experience:
     description: |
         * Worked with Dr. Sebastian Braun in the Audio and Acoustics Research Group. Conducted research on deep learning for unsupervised speech separation.
 
+  - title: Data Scientist Intern
+    company: Musixmatch 
+    company_url: 'https://about.musixmatch.com/'
+    company_logo: musixmatch
+    location: Bologna, Italy
+    date_start: '2022-09-01'
+    date_end: '2023-03-30'
+    description: |
+        * Worked with Dr. Loreto Parisi in the AI Team. Conducted research on deep learning for singing voice detection.
+
 design:
   columns: '2'
 ---
