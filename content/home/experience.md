@@ -54,7 +54,7 @@ experience:
     company_logo: microsoft
     location: Redmond, Washington, USA
     date_start: '2023-06-01'
-    date_end: '2023-09-31'
+    date_end: '2023-09-30'
     description: |
         * Worked with Dr. Sebastian Braun in the Audio and Acoustics Research Group. Conducted research on deep learning for unsupervised speech separation.
 
