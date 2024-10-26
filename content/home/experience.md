@@ -39,13 +39,14 @@ experience:
     #     * Deploying
         
   - title: Visiting Research Scientist
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company: Sony
+    company_url: 'https://www.sony.com/en/SonyInfo/research/about/stuttgart-laboratory1/'
+    company_logo: sony
+    location: Stuttgart, Germany
+    date_start: '2023-11-01'
+    date_end: '2024-01-31'
+    description: |
+        * Worked with Dr. Stefan Uhlich in the AI, Speech and Sound Group. Conducted research on deep learning for effects removal and timbre transfer with diffusion models.
 
 design:
   columns: '2'
