@@ -22,7 +22,7 @@ interests:
 - Signal Processing
 - Generative AI
 - Music Generation
-- Audio Source Separation
+- Source Separation
 - NLP
 - Speech Synthesis
 
