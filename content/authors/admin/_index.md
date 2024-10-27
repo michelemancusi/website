@@ -22,8 +22,9 @@ interests:
 - Signal Processing
 - Generative AI
 - Music Generation
-- Source Separation
+- Audio Source Separation
 - NLP
+- Speech Synthesis
 
 # Education to show in About widget
 education:
@@ -73,7 +74,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/Michele_Mancusi_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
