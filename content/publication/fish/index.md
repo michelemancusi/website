@@ -39,5 +39,5 @@ abstract: 'Autoregressive models have achieved impressive results over a wide ra
 publication: 'I3DA 2023'
 links:
 - name: URL
-  url : https://ojs.aaai.org/index.php/AAAI/article/view/26131
+  url : https://ieeexplore.ieee.org/abstract/document/10289193
 ---
