@@ -41,4 +41,6 @@ publication: '*Oral (top 1%) @ ICLR 2024*'
 links:
 - name: URL
   url : https://openreview.net/forum?id=h922Qhkmx1
+- name: 'PDF'
+  url: https://zorah.github.io/files/pdfs/vestner2017kernel.pdf
 ---
