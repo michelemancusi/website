@@ -19,7 +19,6 @@ main:
   - name: Academic Experience
     url: '#academic_experience'
     weight: 50
-
   - name: Contact
     url: '#contact'
     weight: 60
