@@ -27,11 +27,12 @@ item:
 - certificate_url:
   date_end: ""
   date_start: "2024-05-07"
-  description: "Research grant of **€1,000** for young researchers and Ph.D. students"
+  description: |
+    First-author paper selected among the top 1% submissions for an oral presentation at ICLR 2024
   organization: International Conference on Learning Representations (ICLR)
-  organization_url: https://www.uniroma1.it/en
-  title: Kickstarting Research Funding
-  url: https://www.uniroma1.it/en/pagina/sapienza-research-calls-0
+  organization_url: https://iclr.cc/Conferences/2024
+  title: Notable top 1% paper (oral)
+  url: https://openreview.net/forum?id=h922Qhkmx1
 
 - certificate_url:
   date_end: ""
