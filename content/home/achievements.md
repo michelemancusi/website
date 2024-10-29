@@ -36,13 +36,23 @@ item:
 
 - certificate_url:
   date_end: ""
-  date_start: "2024-01-07"
+  date_start: "2022-04-07"
   description: |
     * Awarded €50,000 in AWS credit for the best generative AI research project
   organization: Amazon
   organization_url: https://aws.amazon.com/?nc2=h_lg
   title: Winner of AWS Cloud Credit for Research
   url: https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/
+
+- certificate_url:
+  date_end: ""
+  date_start: "2024-01-07"
+  description: |
+    * Awarded €20,000 for the best machine translation research project
+  organization: Translated’s Research Center
+  organization_url: https://imminent.translated.com/
+  title: Winner of Imminent Research Grant
+  url: https://imminent.translated.com/research-grants-ceremony-2
 
 - certificate_url:
   date_end: ""
