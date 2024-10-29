@@ -28,11 +28,21 @@ item:
   date_end: ""
   date_start: "2024-05-07"
   description: |
-    First-author paper selected among the top 1% submissions for an oral presentation at ICLR 2024
+    * First-author paper selected among the top 1% submissions for an oral presentation at ICLR 2024
   organization: International Conference on Learning Representations (ICLR)
   organization_url: https://iclr.cc/Conferences/2024
-  title: Notable top 1% paper (oral)
+  title: ICLR notable top 1% paper (oral)
   url: https://openreview.net/forum?id=h922Qhkmx1
+
+- certificate_url:
+  date_end: ""
+  date_start: "2024-01-07"
+  description: |
+    * Awarded €50,000 in AWS credit for the best generative AI research project
+  organization: Amazon
+  organization_url: https://aws.amazon.com/?nc2=h_lg
+  title: Winner of AWS Cloud Credit for Research
+  url: https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/
 
 - certificate_url:
   date_end: ""
