@@ -23,30 +23,25 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+
+- certificate_url:
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
+  date_start: "2024-05-07"
+  description: "Research grant of **€1,000** for young researchers and Ph.D. students"
+  organization: International Conference on Learning Representations (ICLR)
+  organization_url: https://www.uniroma1.it/en
+  title: Kickstarting Research Funding
+  url: https://www.uniroma1.it/en/pagina/sapienza-research-calls-0
+
+- certificate_url:
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  date_start: "2020-10-13"
+  description: |
+    * Recognized as one of the top doctoral research projects and awarded research funding
+  organization: Sapienza University of Rome
+  organization_url: https://www.uniroma1.it/en
+  title: Best Ph.D. Research Project
+  url: https://www.uniroma1.it/sites/default/files/field_file_allegati/graduatoria_avvio_per_web_0.pdf
 
 design:
   columns: '2' 
