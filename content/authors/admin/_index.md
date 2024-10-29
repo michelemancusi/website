@@ -14,7 +14,7 @@ organizations:
   url: https://www.sony.com/en/SonyInfo/research/about/stuttgart-laboratory1/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Senior Research Scientist at Sony, focused on advancing generative audio models through deep learning
 
 # Interests to show in About widget
 interests:

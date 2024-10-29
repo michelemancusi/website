@@ -21,52 +21,27 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: Senior Research Scientist 
-    company: Sony
-    company_url: 'https://www.sony.com/en/SonyInfo/research/about/stuttgart-laboratory1/'
-    company_logo: sony
-    location: Stuttgart, Germany
-    date_start: '2024-04-01'
-    date_end: ''
-    description: |
-        * Research on deep learning for generative models for speech and audio with LLM and diffusion models.
+item:
 
-    #     Responsibilities include:
-    #     
-    #     * Analysing
-    #     * Modelling
-    #     * Deploying
-        
-  - title: Visiting Research Scientist
-    company: Sony
-    company_url: 'https://www.sony.com/en/SonyInfo/research/about/stuttgart-laboratory1/'
-    company_logo: sony
-    location: Stuttgart, Germany
-    date_start: '2023-11-01'
-    date_end: '2024-01-31'
-    description: |
-        * Worked with Dr. Stefan Uhlich in the AI, Speech and Sound Group. Conducted research on deep learning for effects removal and timbre transfer with diffusion models.
+- certificate_url:
+  date_end: ""
+  date_start: "2023-07-07"
+  description: |
+    * Lectured at the Deep Learning and Applied AI MSc course and mentored students for their Master’s Thesis
+  organization: Sapienza University of Rome
+  organization_url: https://www.uniroma1.it/en
+  title: Teaching Assistant
+  url: https://github.com/erodola/DLAI-s2-2023
 
-  - title: Research Scientist Intern
-    company: Microsoft 
-    company_url: 'https://www.microsoft.com/en-us/research/research-area/audio-acoustics/?'
-    company_logo: microsoft
-    location: Redmond, Washington, USA
-    date_start: '2023-06-01'
-    date_end: '2023-09-30'
-    description: |
-        * Worked with Dr. Sebastian Braun in the Audio and Acoustics Research Group. Conducted research on deep learning for unsupervised speech separation.
-
-  - title: Data Scientist Intern
-    company: Musixmatch 
-    company_url: 'https://about.musixmatch.com/'
-    company_logo: musixmatch
-    location: Bologna, Italy
-    date_start: '2022-09-01'
-    date_end: '2023-03-30'
-    description: |
-        * Worked with Dr. Loreto Parisi in the AI Team. Conducted research on deep learning for singing voice detection.
+- certificate_url:
+  date_end: ""
+  date_start: "2023-06-07"
+  description: |
+    * Delivered a guest lecture on the Latent Autoregressive Source Separation paper upon the invitation of Prof. Ronald Coifman
+  organization: Yale University
+  organization_url: https://www.yale.edu/
+  title: Invited Talk
+  url: https://seas.yale.edu/faculty-research/faculty-directory/ronald-coifman
 
 design:
   columns: '2'
