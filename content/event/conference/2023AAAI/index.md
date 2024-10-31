@@ -1,18 +1,18 @@
 ---
-title: The Fortieth International Conference on Machine Learning (ICML 2023)
+title: "AAAI 2023: The 37th AAAI Conference on Artificial Intelligence"
 
-event: The Fortieth International Conference on Machine Learning (ICML 2023)
+event: "AAAI 2023: The 37th AAAI Conference on Artificial Intelligence"
 
-event_url: https://icml.cc/
-external_link: https://icml.cc/
+event_url: https://aaai-23.aaai.org/
+external_link: https://aaai-23.aaai.org/
 
 location: |2-
-  Honolulu, Hawaii (USA)
+  Washington, DC, USA
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-07-23T00:00:00Z'
-date_end: '2023-07-29T00:00:00Z'
+date: '2023-02-07T00:00:00Z'
+date_end: '2023-02-14T00:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
