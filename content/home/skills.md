@@ -27,6 +27,9 @@ feature:
 - icon: 'pytorch'
   icon_pack: "custom"
   name: "PyTorch"
+- icon: 'hydra'
+  icon_pack: "custom"
+  name: "Hydra"
   #description: "90%"
 #- description: 10%
 #  icon: camera-retro
