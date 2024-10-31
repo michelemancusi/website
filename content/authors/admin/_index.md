@@ -6,7 +6,7 @@ title: Michele Mancusi
 superuser: true
 
 # Role/position/tagline
-role: Senior Research Scientist
+role: Senior Research Scientist, PhD
 
 # Organizations/Affiliations to show in About widget
 organizations:
