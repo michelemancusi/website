@@ -36,7 +36,7 @@ item:
 
 - certificate_url:
   date_end: ""
-  date_start: "2022-04-07"
+  date_start: "2024-04-07"
   description: |
     * Awarded €50,000 in AWS credit for the best generative AI research project
   organization: Amazon
