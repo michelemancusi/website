@@ -24,6 +24,9 @@ feature:
 - icon: 'wandb'
   icon_pack: "custom"
   name: "Weights & Biases"
+- icon: 'pytorch'
+  icon_pack: "custom"
+  name: "PyTorch"
   #description: "90%"
 #- description: 10%
 #  icon: camera-retro
