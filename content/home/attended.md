@@ -21,7 +21,7 @@ content:
   # Filter on criteria
   filters:
     author: ""
-    category: "Attended"
+    category: "attended"
     tag: ""
     exclude_featured: false
     exclude_future: false
