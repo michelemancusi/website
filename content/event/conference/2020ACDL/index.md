@@ -1,18 +1,18 @@
 ---
-title: 4th International School on Deep Learning
+title: "ACDL: 3rd Advanced Course on Data Science & Machine Learning"
 
-event: 4th International School on Deep Learning
+event: "ACDL: 3rd Advanced Course on Data Science & Machine Learning"
 
-event_url: https://irdta.eu/deeplearn2021s/
-external_link: https://irdta.eu/deeplearn2021s/
+event_url: https://acdl2020.icas.xyz/
+external_link: https://acdl2020.icas.xyz/
 
 location: |2-
-  Virtual
+  Certosa di Pontignano, Siena, Italy
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-07-26T00:00:00Z'
-date_end: '2021-07-30T00:00:00Z'
+date: '2020-07-13T00:00:00Z'
+date_end: '2020-07-17T00:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
