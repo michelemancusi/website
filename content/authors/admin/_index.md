@@ -77,7 +77,7 @@ social:
   link: uploads/Michele_Mancusi_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "michele.mancusi@hotmail.it"
 
 # Highlight the author in author lists? (true/false) {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 highlight_name: true
