@@ -38,7 +38,10 @@ feature:
   name: "Azure ML"  
 - icon: 'slurm'
   icon_pack: "custom"
-  name: "Slurm"  
+  name: "Slurm"
+- icon: 'condor'
+  icon_pack: "custom"
+  name: "HTCondor"  
   #description: "90%"
 #- description: 10%
 #  icon: camera-retro
