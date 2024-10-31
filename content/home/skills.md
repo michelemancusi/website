@@ -30,6 +30,9 @@ feature:
 - icon: 'hydra'
   icon_pack: "custom"
   name: "Hydra"
+- icon: 'aws'
+  icon_pack: "custom"
+  name: "AWS SageMaker"
   #description: "90%"
 #- description: 10%
 #  icon: camera-retro
