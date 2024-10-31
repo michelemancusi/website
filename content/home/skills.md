@@ -21,14 +21,10 @@ feature:
   icon_pack: "custom"
   name: "Lightning"
   #description: "90%"
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
+- icon: 'wandb'
+  icon_pack: "custom"
+  name: "Weights & Biases"
+  #description: "90%"
 #- description: 10%
 #  icon: camera-retro
 #  icon_pack: fas
