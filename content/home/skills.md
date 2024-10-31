@@ -33,6 +33,9 @@ feature:
 - icon: 'aws'
   icon_pack: "custom"
   name: "AWS SageMaker"
+- icon: 'azure'
+  icon_pack: "custom"
+  name: "Azure ML"  
   #description: "90%"
 #- description: 10%
 #  icon: camera-retro
