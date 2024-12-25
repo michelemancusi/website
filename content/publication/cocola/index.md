@@ -15,7 +15,7 @@ authors:
 
 tags: []
 categories: []
-date: 
+date: '2024-12-24'
 lastmod: 2024-12-24T:26:44
 featured: false
 draft: false

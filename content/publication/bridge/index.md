@@ -19,7 +19,7 @@ authors:
 
 tags: []
 categories: []
-date: 
+date: '2024-12-25'
 lastmod: 2024-12-25T:26:44
 featured: false
 draft: false
