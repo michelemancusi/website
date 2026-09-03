@@ -38,7 +38,7 @@ feature:
   name: "Azure ML"
 - icon: 'google-cloud'
   icon_pack: "custom"
-  name: "Google Cloud Platform (GCP)"
+  name: "Google Cloud Platform"
 - icon: 'slurm'
   icon_pack: "custom"
   name: "Slurm"
