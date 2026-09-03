@@ -41,7 +41,10 @@ feature:
   name: "Slurm"
 - icon: 'condor'
   icon_pack: "custom"
-  name: "HTCondor"  
+  name: "HTCondor"
+- icon: 'kubernetes'
+  icon_pack: "custom"
+  name: "Kubernetes"
   #description: "90%"
 #- description: 10%
 #  icon: camera-retro

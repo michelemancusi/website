@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: "Jan 2, 2006"
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -22,6 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+
+- certificate_url:
+  date_end: "2025-11-16"
+  date_start: "2025-11-15"
+  description: |
+    * International Symposium on Diffusion Models for Audio and Music Processing
+    * Osnabrück, Germany
+  organization: Osnabrück University
+  organization_url: https://www.uni-osnabrueck.de/en/
+  title: Invited Talk
+  url: https://www.uni-osnabrueck.de/fb3/mtdml/tagungen/diffusion-models-for-audio-and-music-processing-2025
 
 - certificate_url:
   date_end: ""
