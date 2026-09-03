@@ -6,15 +6,15 @@ title: Michele Mancusi
 superuser: true
 
 # Role/position/tagline
-role: Senior Research Scientist, PhD
+role: Senior Applied Scientist, PhD
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Sony
-  url: https://www.sony.com/en/SonyInfo/research/about/stuttgart-laboratory1/
+- name: Music.AI (Moises)
+  url: https://music.ai/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Senior Research Scientist at Sony, focused on advancing generative audio models through deep learning
+bio: Senior Applied Scientist at Music.AI (Moises), developing and optimizing autoencoders and generative models for speech, music, and general audio enhancement
 
 # Interests to show in About widget
 interests:
@@ -83,10 +83,10 @@ email: ""
 highlight_name: true
 ---
 
-I'm Michele Mancusi, a **Senior Research Scientist** at [Sony](https://www.sony.com/en/SonyInfo/research/about/stuttgart-laboratory1/). My work focuses on deep learning for **generative models** in speech, audio, and music utilizing Large Language Models (**LLMs**) and **diffusion models** to push the boundaries of what's possible in audio technology.
+I'm Michele Mancusi, a **Senior Applied Scientist** at [Music.AI (Moises)](https://music.ai/), where I develop and optimize autoencoders and generative models for speech, music, and general audio enhancement.
 
-Before joining Sony, I gained valuable experience as an intern at [Microsoft](https://www.microsoft.com/en-us/research/research-area/audio-acoustics/?) and [Musixmatch](https://about.musixmatch.com/). At Microsoft, I worked on deep learning for unsupervised speech separation, and at Musixmatch, I focused on deep learning for singing voice detection.
+Previously, I was a **Research Scientist** at [Sony](https://www.sony.com/en/SonyInfo/research/about/stuttgart-laboratory1/), where I conducted research on deep-learning-based generative models for speech, audio, and music, including Large Language Model (**LLM**) and diffusion-based approaches.
+
+Earlier in my career, I interned at [Microsoft](https://www.microsoft.com/en-us/research/research-area/audio-acoustics/) and [Musixmatch](https://about.musixmatch.com/). At Microsoft, I worked on deep learning for unsupervised speech separation, while at Musixmatch I focused on singing voice detection.
 
 I earned my **Ph.D.** from **Sapienza University of Rome** under the supervision of [Prof. Emanuele Rodolà](https://gladia.di.uniroma1.it/authors/rodola/) as a member of the [Gladia research group](https://gladia.di.uniroma1.it/). My doctoral research centered on music generation, source separation, and Natural Language Processing (NLP), contributing to advancements in the field of generative AI.
-
-

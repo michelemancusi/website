@@ -22,15 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Senior Research Scientist 
+  - title: Senior Applied Scientist
+    company: Music.AI (Moises)
+    company_url: 'https://music.ai/'
+    company_logo: music-ai
+    date_start: '2025-04-01'
+    date_end: ''
+    description: |
+        * Developing and optimizing autoencoders and generative models for speech, music, and general audio enhancement.
+
+  - title: Research Scientist
     company: Sony
     company_url: 'https://www.sony.com/en/SonyInfo/research/about/stuttgart-laboratory1/'
     company_logo: sony
     location: Stuttgart, Germany
     date_start: '2024-04-01'
-    date_end: ''
+    date_end: '2025-03-31'
     description: |
-        * Research on deep learning for generative models for speech and audio with LLM and diffusion models.
+        * Conducted research on deep-learning-based generative models for speech, audio, and music, including LLM- and diffusion-based approaches.
 
     #     Responsibilities include:
     #     

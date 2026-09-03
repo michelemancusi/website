@@ -1,0 +1,13 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="music-ai-title">
+  <title id="music-ai-title">Music AI</title>
+  <rect width="80" height="80" rx="40" fill="url(#music-ai-gradient)"/>
+  <path d="M31.1156 23L29.4722 28.2797H32.7625L39.5437 50.0765H49.2312L41.6508 25.7233C41.1466 24.1035 39.6474 23 37.9509 23H31.1156Z" fill="#0055FF"/>
+  <path d="M29.4722 28.2797H22.6339C20.9372 28.2797 19.4378 29.3835 18.9338 31.0035L13 50.0765H22.6875L29.4722 28.2797Z" fill="#0055FF"/>
+  <path d="M56.5937 50.0765L49.8125 28.2796H56.6473C58.344 28.2796 59.8434 29.3834 60.3474 31.0035L66.2812 50.0765H56.5937Z" fill="#0055FF"/>
+  <defs>
+    <linearGradient id="music-ai-gradient" x1="4.49704" y1="78.5937" x2="72.9364" y2="1.51983" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white"/>
+      <stop offset="1" stop-color="#BCC6DB"/>
+    </linearGradient>
+  </defs>
+</svg>
