@@ -35,7 +35,10 @@ feature:
   name: "AWS SageMaker"
 - icon: 'azure'
   icon_pack: "custom"
-  name: "Azure ML"  
+  name: "Azure ML"
+- icon: 'google-cloud'
+  icon_pack: "custom"
+  name: "Google Cloud Platform (GCP)"
 - icon: 'slurm'
   icon_pack: "custom"
   name: "Slurm"
