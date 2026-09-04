@@ -13,7 +13,7 @@
         {{- $icon_name := replace (lower .organization) " " "_" -}}
         {{- $logo_path := printf "media/icons/brands/%s.svg" $icon_name -}}
         {{- with .organization_logo -}}
-          {{- $logo_path = printf "media/icons/brands/%s" . -}}
+          {{- $logo_path = printf "media/icons/%s" . -}}
         {{- end -}}
         {{- $organization_logo := resources.Get $logo_path -}}
         {{- if $organization_logo }}

@@ -26,6 +26,17 @@ item:
 
 - certificate_url:
   date_end: ""
+  date_start: "2026-04-16"
+  description: |
+    * Awarded $5,000 in Google Cloud credits to support research on generative AI for speech, music, and general audio
+  organization: Google Cloud
+  organization_logo: google-cloud.svg
+  organization_url: https://cloud.google.com/
+  title: Google Cloud Research Credits Recipient
+  url: https://edu.google.com/intl/ALL_us/programs/credits/research/
+
+- certificate_url:
+  date_end: ""
   date_start: "2024-05-07"
   description: |
     * First-author paper selected among the top 1% submissions for an oral presentation at ICLR 2024
