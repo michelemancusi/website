@@ -28,7 +28,6 @@ item:
   date_start: "2025-11-15"
   description: |
     * International Symposium on Diffusion Models for Audio and Music Processing
-    * Osnabrück, Germany
   organization: Osnabrück University
   organization_logo: osnabrueck_university.png
   organization_url: https://www.uni-osnabrueck.de/en/
