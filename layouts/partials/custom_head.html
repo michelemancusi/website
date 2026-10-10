@@ -1,0 +1,4 @@
+{{/* Explicit, versioned fallbacks for browser and Apple icon caches. */}}
+{{- $icon_version := (resources.Get "media/icon.png").Content | md5 -}}
+<link rel="shortcut icon" type="image/x-icon" sizes="32x32" href="{{ printf "/favicon.ico?v=%s" $icon_version | relURL }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ printf "/apple-touch-icon.png?v=%s" $icon_version | relURL }}">
