@@ -26,6 +26,7 @@ experience:
     company: Music.AI (Moises)
     company_url: 'https://music.ai/'
     company_logo: music-ai
+    location: Stuttgart, Germany (Remote)
     date_start: '2025-04-01'
     date_end: ''
     description: |
